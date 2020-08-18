@@ -1,0 +1,9 @@
+{
+  "appId": "app.preconception",
+  "appName": "PreConception",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {},
+  "allowNavigation": ["*.stripe.com", "preconceptiontest.com"]
+}

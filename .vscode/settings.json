@@ -1,0 +1,37 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "emmet.excludeLanguages": ["typescript", "typescriptreact", "javascript"],
+  "typescript.autoClosingTags": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.f.js": true,
+    "**/*.f.js.map": true,
+    "**/.netlify": true,
+    "**/build": true,
+    "**/node_modules": true,
+    "**/lambda": true
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": true,
+  "typescript.format.insertSpaceAfterTypeAssertion": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "workbench.colorTheme": "Monokai",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "workbench.editor.labelFormat": "medium",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "enabled",
+  "typescript.implementationsCodeLens.enabled": true,
+  "sync.gist": "18d4e252a0fe6147bb7f089de4e0fd4b"
+}
